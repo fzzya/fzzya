@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently Software Engineering Student at **Telkom University Surabaya**
-- 🌱 I’m currently learning Laravel Framework (❁´◡`❁)
+- 🌱 I’m currently learning **Laravel** Framework (❁´◡`❁)
 
 ![Hello](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBid3ltaWxjeHYwbmlueXlrb2gybmUxOHppb2lmNHhhdGE0Y2p2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfmUWVMOyKVG/giphy.gif)
