@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Wordl! Im Siti Nur Faizah👋
+
+![Siti Nur Faizah](img/banner.png)
 
 <!--
 **fzzya/fzzya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently Software Engineering Student at **Telkom University Surabaya**
+- 🌱 I’m currently learning Laravel Framework
+- (❁´◡`❁)
+
+![Hello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ4Y25odXV4cjZ0a3N5ZnpyZXBlNTUxZnozNDBibjUzY2JpcG1vMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DGsDLr9nyz2LkVgKFs/giphy.gif)
