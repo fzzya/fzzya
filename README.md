@@ -1,4 +1,4 @@
-## Hello World! Im Siti Nur Faizah👋
+## Hello World! I'm Siti Nur Faizah👋
 
 ![Siti Nur Faizah](img/banner.png)
 
